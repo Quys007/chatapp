@@ -117,6 +117,4 @@ Hãy thay bằng ID thật (ví dụ lấy từ `FirebaseAuth` hoặc truyền q
 - Cần cấu hình Firestore/Storage Security Rules trước khi đưa vào sử dụng thực tế.
 - Nên bổ sung đăng nhập (Firebase Authentication), danh sách cuộc trò chuyện và thông báo đẩy (FCM).
 
-## Giấy phép
 
-Dự án phục vụ mục đích học tập. Bạn có thể chọn giấy phép phù hợp (ví dụ MIT) khi phát hành.
