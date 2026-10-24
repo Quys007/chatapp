@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#8529BC</color>
+    <color name="bubble_received">#F0F2F5</color>
+    <color name="text_primary">#1C1E21</color>
+    <color name="text_secondary">#65676B</color>
+    <color name="divider">#E4E6EB</color>
+    <color name="bg_screen">#FFFFFF</color>
+    <color name="bg_input">#F0F2F5</color>
+    <color name="badge_red">#F02849</color>
+    <color name="status_online">#4CAF50</color>
+    <color name="status_offline">#9E9E9E</color>
+    <color name="white">#FFFFFF</color>
+</resources>
